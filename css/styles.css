@@ -110,6 +110,7 @@ p {
 
 .testimonial-text {
   line-height: 1.5;
+  height: fit-content;
 }
 
 .carousel-control-prev {
