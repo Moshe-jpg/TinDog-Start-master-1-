@@ -1,0 +1,185 @@
+body {
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 3px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 50px 0;
+  line-height: 1.5;
+}
+
+.letter-t {
+  color: #39a9cb;
+  font-family: 'Texturina', serif;
+  font-weight: bold;
+}
+
+.true {
+  color: #39a9cb;
+}
+
+.love {
+  color: #ff2e63;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* title section */
+#title {
+  background-color: #222831;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.title-header {
+  color: #ffffff;
+  line-height: 1.5;
+  padding: 50px 0;
+  font-size: 3rem;
+  font-family: 'PT Serif Caption', serif;
+  font-weight: bold;
+}
+
+.iphone {
+  width: 40%;
+  transform: rotate(37deg);
+  position: relative;
+  left: 7%;
+  bottom: 3%;
+}
+
+.navbar {
+  padding-bottom: 55px;
+}
+
+.navbar-brand {
+  font-family: 'Texturina', serif;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.nav-links {
+  position: relative;
+  left: 10%;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* feature section */
+#features {
+  background-color: #e3fdfd;
+  padding: 7% 0;
+}
+
+.feature-logos {
+  width: 20%;
+  padding: 0 10px 30px 10px;
+}
+
+#feature1 {
+  color: #ff2e63;
+}
+
+#feature2 {
+  background-image: url();
+}
+
+#feature3 {
+  color: #ff2e63;
+}
+
+/* testimonial section */
+#testimonials {
+  padding: 4% 15%;
+  background-color: #393e46;
+  color: #ffffff;
+}
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  line-height: 1.5;
+}
+
+.carousel-control-prev {
+  padding: 10px 50px;
+}
+
+.carousel-control-next {
+  padding: 10px 50px;
+}
+
+/* press section */
+#press {
+  background-color: #393e46;
+  color: #ffffff;
+  width: 100%;
+  height: 400px;
+  padding: 3%;
+}
+
+.press-carousel {
+  padding: 60px 0;
+}
+
+/* price section */
+#pricing {
+  background-color: #eeeeee;
+  padding: 3%;
+  font-weight: bold;
+}
+
+.pricing-column {
+  padding: 2%;
+}
+
+.card {
+  background-color: #ff2e63;
+  color: #ffffff;
+}
+
+.card-body-fix {
+  padding: 0 0 60px 0;
+  position: relative;
+  top: 27px;
+}
+
+/* call to action section */
+#cta {
+  background-color: #222831;
+  color: #ffffff;
+  padding: 10% 22%;
+}
+
+/* footer section */
+#footer {
+  background-color: #e4efe7;
+  padding: 3%;
+  font-family: montserrat-black;
+  font-size: 1.5rem;
+}
+
+.footer-icon {
+  padding: 3%;
+  color: #ff2e63;
+}
+
+.footer-tags {
+  color: black;
+  text-decoration: none;
+}
+
+address {
+  position: relative;
+}
