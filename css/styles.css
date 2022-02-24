@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
-.title-header {
+.title-header, .title-header-cta {
   color: #ffffff;
   line-height: 1.5;
   padding: 10% 0;
@@ -56,6 +56,11 @@ h1, h2, h3, h4, h5, h6 {
   .title-header {
     font-size: large;
   }
+
+.title-header-cta {
+  font-size: medium;
+}
+
 }
 
 
